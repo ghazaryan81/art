@@ -1,0 +1,106 @@
+@media only screen and (max-width:1410px){
+	.N-PAD-IN.prxs .new-movie-item{width:20%}
+}
+@media only screen and (max-width:1390px){
+	.new-movie-item{width:25%}
+}
+@media only screen and (max-width:1380px){
+	.blog-inner-two-col-left{width:205px}
+	.blog-inner-two-col-right-pad{padding-left:200px}
+}
+@media only screen and (max-width:1330px){
+	.right-two-col-right{float:none;left:0;margin-right:0%;position:relative;top:0;width:auto;padding-left:300px}
+	.right-two-col-left{padding-bottom:40px}
+	.right-two-col-left-pad{padding-right:60px;position:relative;top:0;left:0;z-index:10}
+	.c1,.c2,.c3{width:100%;float:none;clear:both;padding-bottom:20px}
+	.download-spacer{min-height:5px;height:auto!Important;height:5px}
+}
+@media only screen and (max-width:1280px){
+	.blog-inner-two-col-left,.blog-inner-two-col-right{width:100%;float:none;margin:0;left:0}
+	.blog-inner-two-col-left-pad,.blog-inner-two-col-right-pad{padding:0}
+	.blog-inner-two-col-left-pad{padding-bottom:30px}
+	.new-movie-item{width:33.33%}
+}
+@media only screen and (max-width:1220px){
+	.N-PAD-IN.prxs .new-movie-item{width:25%}
+}
+@media only screen and (max-width:1200px){
+	.profile-form-content-two-column-left,
+	.profile-form-content-two-column-right{float:none;clear:both;width:100%}
+}
+@media only screen and (max-width:1190px){
+	.N-PAD-IN.prxs .new-movie-item{width:33.33%}
+}
+@media only screen and (max-width:1160px){
+	.MAIN-FOOTER-LEFT{float:none;width:100%;text-align:center}
+	.MAIN-FOOTER-RIGHT{float:none;width:100%;text-align:center}
+	.footer-right-list{float:none;width:auto;text-align:center;display:block;padding-left:0}
+	.footer-right-item{display:inline-block;float:none}
+	.DARK-GRAY .footer-right-list{padding-left:321px}
+}
+@media only screen and (max-width:1150px){
+	.people-list-item{width:33.33%}
+	.people-list-item-pad{padding-bottom:10px}
+}
+@media only screen and (max-width:1060px){
+	.people-list-item{width:50%}
+	.people-two-col-left{float:none;margin-right:0;width:auto;z-index:100}
+	.people-two-col-right-pad{padding-left:0;padding-top:30px;padding-right:10px}
+}
+@media only screen and (max-width:1100px){
+	.inner-two-col-left{width:200px}
+	.right-two-col-right,.right-two-col-left-pad,.MAIN-DESCRIPTION-PAD{padding-left:180px}
+	.soc-place-left,
+	.soc-place-right{width:100%;clear:both;float:none;text-align:left}
+	.soc-place-right-pad{padding-left:0;text-align:left}
+}
+@media only screen and (max-width:1030px){
+	.blog-article-left{width:203px}
+	.blog-article-right-pad{padding-left:200px}
+	.blog-article-descr{line-height:22px}
+	.DARK-GRAY .N-PAD-IN{padding:37px 30px 43px 25px}
+}
+@media only screen and (max-width:1014px){
+	.new-movie-item{width:50%}
+}
+@media only screen and (max-width:1000px){
+	.profile-two-col-left,.profile-two-col-right{float:none;float:none}
+	.profile-two-col-right-pad{padding:20px	 0 0 0}
+	.profile-two-col-left{margin-right:0;width:auto}
+	.avatar-place{margin:0 auto;width:188px}
+	.profile-two-col-left-pad{padding-right:0}
+}
+@media only screen and (max-width:992px){
+	.terms-article-left,.terms-article-right{float:none;clear:both;width:100%;left:0;margin:0}
+	.terms-article-right-pad{padding:10px 0 0 0}
+	.N-PAD-IN.prxs .new-movie-item{width:49.33%}
+}
+@media only screen and (max-width:970px){
+	.inner-two-column-left,.inner-two-column-right{float:none;left:0;margin-right:0;width:auto}
+	.inner-two-column-left-pad{padding-right:0}
+	.inner-two-column-right-pad{padding-left:15px}
+	.BLOG-TWO-COL-LEFT-PAD{padding-right:300px}
+	.blog-article-descr-pad{text-align:justify}
+}
+@media only screen and (max-width:940px){
+	.BLOG-TWO-COL-LEFT,.BLOG-TWO-COL-RIGHT{float:none;margin:0;left:0}
+	.BLOG-TWO-COL-LEFT{padding-bottom:40px}
+	.BLOG-TWO-COL-LEFT-PAD{padding-right:0}
+}
+@media only screen and (max-width:860px){
+	.right-two-col-right,.right-two-col-left-pad,.MAIN-DESCRIPTION-PAD{padding-left:180px}
+	.DARK-GRAY .N-PAD-IN{padding:37px 30px 43px 25px}
+}
+@media only screen and (max-width:820px){
+	.top-left-item-pad{padding-right:0px}
+}
+@media only screen and (max-width:805px){
+	.top-bar-pad{padding-left:217px}
+}
+@media only screen and (max-width:892px){
+	.movie-btn-item{padding-bottom:10px;display:inline-block;float:none}
+	.movie-btn-list{text-align:center}
+}
+@media only screen and (max-width:350px){
+	.wh1{max-width:90%}
+}
